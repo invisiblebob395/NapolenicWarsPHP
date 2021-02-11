@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MBAPI.iml" filepath="$PROJECT_DIR$/.idea/MBAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PWProject/.idea/PWProject.iml" filepath="$PROJECT_DIR$/../PWProject/.idea/PWProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PWProject_X/.idea/PWProject_X.iml" filepath="$PROJECT_DIR$/../PWProject_X/.idea/PWProject_X.iml" />
+    </modules>
+  </component>
+</project>

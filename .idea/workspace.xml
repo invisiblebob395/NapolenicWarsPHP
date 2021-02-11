@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b50ff916-7ed7-4ead-9a45-0672bfb843c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3708fabe-653a-4ca6-af5f-1e1c055f872a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3708fabe-653a-4ca6-af5f-1e1c055f872a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3708fabe-653a-4ca6-af5f-1e1c055f872a/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3708fabe-653a-4ca6-af5f-1e1c055f872a/storage_v2/_src_/schema/mysql.osA4Bg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PW" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remote" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remote" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remote" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="napwars: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PWProject_X/checkplayer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2145">
+              <caret line="143" column="37" selection-start-line="143" selection-start-column="37" selection-end-line="143" selection-end-column="379" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/29a54fd7-c36f-4d44-9702-5ef0d6ab7a2a/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="185" selection-end-column="336" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/private/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PWProject/pwnameserver/private/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PWProject/checkplayer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PWProject_X/amountwithdraw.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/ban_stat">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true">
+                <filter text="GUID = 2792250" />
+                <filter text="GUID = 1262341" />
+                <filter text="GUID = 4621119" />
+                <filter text="GUID = 4621110" />
+                <filter text="PrimaryID = 'F' OR  PrimaryID2 = 'F'" />
+                <filter text="PrimaryID = 'F'" />
+                <filter text="PrimaryID = 'xiaokeai'" />
+                <filter text="PrimaryID LIKE '%ARTHUR5%'" />
+                <filter text="PrimaryID2 LIKE '%ARTHUR5%'" />
+                <filter text="PrimaryID2 LIKE '%ARTHUR%'" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PWProject_X/antispy.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3708fabe-653a-4ca6-af5f-1e1c055f872a/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="100" selection-start-column="100" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PWProject_X/getarmor.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>invalid</find>
+      <find>3</find>
+      <find>password_error</find>
+      <find>Banned</find>
+      <find>banned</find>
+      <find>BANNED</find>
+      <find>echo &quot;-6</find>
+      <find>ban_stat</find>
+      <find>player_names</find>
+      <find>INSERT INTO</find>
+      <find>$statcheck</find>
+      <find>$signchecker1</find>
+      <find>$signnamecheck1</find>
+      <find>-6</find>
+      <find>checkname</find>
+      <find>$emptyfinderr1</find>
+      <find>$primaryid</find>
+      <find>ONLINESTATUS</find>
+      <find>$return_code</find>
+      <find>onlineSTATUS</find>
+      <find>$permissionS</find>
+      <find>ban</find>
+      <find>ban_date</find>
+      <find>BAN_STAT</find>
+      <find>register</find>
+      <find>player_register_name</find>
+      <find>checkname3</find>
+      <find>INSERT INTO BAN_ST</find>
+      <find>INSERT INTO BAN_STAT</find>
+      <find>INSERT INTO ACCOUNT</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MBAPI.php" />
+        <option value="$PROJECT_DIR$/killStreak.php" />
+        <option value="$PROJECT_DIR$/econmy.php" />
+        <option value="$PROJECT_DIR$/economy.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/database.php" />
+        <option value="$PROJECT_DIR$/market.php" />
+        <option value="a07a5b75-5d5b-48ca-85d0-29cff05dd04a/schema/napwars/table/players/index/guid_2" />
+        <option value="$PROJECT_DIR$/utils.php" />
+        <option value="$PROJECT_DIR$/api.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a07a5b75-5d5b-48ca-85d0-29cff05dd04a/console.sql" />
+        <option value="$PROJECT_DIR$/playerStats.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/amountdeposit.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3708fabe-653a-4ca6-af5f-1e1c055f872a/console_2.sql" />
+        <option value="$PROJECT_DIR$/../PWProject_X/testtime.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/../PWProject_X/pwnameserver/private/config.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/updateIP.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/loadfactionprivs.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3708fabe-653a-4ca6-af5f-1e1c055f872a/console_1.sql" />
+        <option value="$PROJECT_DIR$/../PWProject_X/antispy.php" />
+        <option value="$PROJECT_DIR$/../PWProject/pwnameserver/addban.php" />
+        <option value="$PROJECT_DIR$/../PWProject/bank.php" />
+        <option value="$PROJECT_DIR$/../PWProject/getarmor.php" />
+        <option value="$PROJECT_DIR$/../PWProject/changebankstatus.php" />
+        <option value="$PROJECT_DIR$/../PWProject/carriedupdate.php" />
+        <option value="$PROJECT_DIR$/../PWProject/changestatus.php" />
+        <option value="$PROJECT_DIR$/../PWProject/checkhouse.php" />
+        <option value="$PROJECT_DIR$/../PWProject/custommessage.php" />
+        <option value="$PROJECT_DIR$/../PWProject/save.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/test.php" />
+        <option value="$PROJECT_DIR$/../PWProject/checkplayer.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/record.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/getarmor.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/loadskills.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/mb_x.sql" />
+        <option value="$PROJECT_DIR$/../PWProject_X/savefaction.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/save.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/items.php" />
+        <option value="$PROJECT_DIR$/../PWProject_X/checkplayer.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3708fabe-653a-4ca6-af5f-1e1c055f872a/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/29a54fd7-c36f-4d44-9702-5ef0d6ab7a2a/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MBAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PWProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MBAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PWProject" type="462c0819:PsiDirectoryNode" />
+              <item name="pwnameserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MBAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PWProject" type="462c0819:PsiDirectoryNode" />
+              <item name="pwnameserver" type="462c0819:PsiDirectoryNode" />
+              <item name="private" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MBAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PWProject_X" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MBAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PWProject_X" type="462c0819:PsiDirectoryNode" />
+              <item name="pwnameserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MBAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PWProject_X" type="462c0819:PsiDirectoryNode" />
+              <item name="pwnameserver" type="462c0819:PsiDirectoryNode" />
+              <item name="private" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../PWProject_X" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php (1)">
+    <configuration name="api.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/api.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../PWProject_X/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.test.php (1)" />
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="PHP Script.api.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b50ff916-7ed7-4ead-9a45-0672bfb843c3" name="Default Changelist" comment="" />
+      <created>1551829431578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551829431578</updated>
+      <workItem from="1551829433470" duration="10124000" />
+      <workItem from="1551924767297" duration="3869000" />
+      <workItem from="1552448769932" duration="17205000" />
+      <workItem from="1552527819041" duration="11830000" />
+      <workItem from="1552615767481" duration="2102000" />
+      <workItem from="1552725399359" duration="2644000" />
+      <workItem from="1554429899483" duration="665000" />
+      <workItem from="1556618068849" duration="904000" />
+      <workItem from="1558409100586" duration="180000" />
+      <workItem from="1558409297984" duration="11478000" />
+      <workItem from="1558586060403" duration="5148000" />
+      <workItem from="1558660939953" duration="3211000" />
+      <workItem from="1559207498447" duration="3870000" />
+      <workItem from="1559261043963" duration="8039000" />
+      <workItem from="1559390517308" duration="1086000" />
+      <workItem from="1559566163471" duration="664000" />
+      <workItem from="1560048311894" duration="505000" />
+      <workItem from="1560089729168" duration="1356000" />
+      <workItem from="1560769756403" duration="28000" />
+      <workItem from="1561020106325" duration="498000" />
+      <workItem from="1561459443486" duration="1473000" />
+      <workItem from="1562410404990" duration="8329000" />
+      <workItem from="1562599041961" duration="8589000" />
+      <workItem from="1562815746781" duration="1662000" />
+      <workItem from="1563215546648" duration="3706000" />
+      <workItem from="1563591224692" duration="335000" />
+      <workItem from="1563664342875" duration="1335000" />
+      <workItem from="1563743956806" duration="931000" />
+      <workItem from="1563937887069" duration="892000" />
+      <workItem from="1564099641555" duration="759000" />
+      <workItem from="1564121018898" duration="2235000" />
+      <workItem from="1565506624584" duration="1909000" />
+      <workItem from="1565575026501" duration="5350000" />
+      <workItem from="1565657598824" duration="2419000" />
+      <workItem from="1565766003798" duration="7168000" />
+      <workItem from="1565946593458" duration="4285000" />
+      <workItem from="1566030630126" duration="963000" />
+      <workItem from="1566044786353" duration="1930000" />
+      <workItem from="1566118549695" duration="2597000" />
+      <workItem from="1566181955178" duration="2330000" />
+      <workItem from="1566725948376" duration="2306000" />
+      <workItem from="1567009593021" duration="599000" />
+      <workItem from="1567033613671" duration="139000" />
+      <workItem from="1567042906824" duration="4669000" />
+      <workItem from="1567170838139" duration="142000" />
+      <workItem from="1567307092483" duration="1833000" />
+      <workItem from="1567474854162" duration="5192000" />
+      <workItem from="1567584988108" duration="202000" />
+      <workItem from="1567860825588" duration="2608000" />
+      <workItem from="1568123957984" duration="1263000" />
+      <workItem from="1568297243979" duration="2023000" />
+      <workItem from="1568505990490" duration="1615000" />
+      <workItem from="1568644096898" duration="636000" />
+      <workItem from="1568877846141" duration="5632000" />
+      <workItem from="1569195257681" duration="1391000" />
+      <workItem from="1569292309955" duration="2745000" />
+      <workItem from="1569503995952" duration="2313000" />
+      <workItem from="1569638703864" duration="566000" />
+      <workItem from="1569889228959" duration="273000" />
+      <workItem from="1569904023359" duration="2654000" />
+      <workItem from="1570112244593" duration="2097000" />
+      <workItem from="1570156555189" duration="8750000" />
+      <workItem from="1570290199616" duration="19000" />
+      <workItem from="1570320981451" duration="2619000" />
+      <workItem from="1570365152345" duration="516000" />
+      <workItem from="1570405974588" duration="4000" />
+      <workItem from="1570428878144" duration="2528000" />
+      <workItem from="1570455309879" duration="1128000" />
+      <workItem from="1570499821147" duration="40000" />
+      <workItem from="1571124028122" duration="1007000" />
+      <workItem from="1571405066733" duration="562000" />
+      <workItem from="1572795788964" duration="397000" />
+      <workItem from="1573487080591" duration="154000" />
+      <workItem from="1574866433283" duration="81000" />
+      <workItem from="1575028699545" duration="2103000" />
+      <workItem from="1575096331293" duration="623000" />
+      <workItem from="1576665736736" duration="460000" />
+      <workItem from="1577335759757" duration="819000" />
+      <workItem from="1579012996252" duration="763000" />
+      <workItem from="1579347669973" duration="1811000" />
+      <workItem from="1579502832976" duration="3949000" />
+      <workItem from="1579664672237" duration="7565000" />
+      <workItem from="1580388308996" duration="733000" />
+      <workItem from="1580629788990" duration="233000" />
+      <workItem from="1580923934713" duration="627000" />
+      <workItem from="1581350058088" duration="689000" />
+      <workItem from="1581821015501" duration="10000" />
+      <workItem from="1581917798192" duration="444000" />
+      <workItem from="1582168788533" duration="967000" />
+      <workItem from="1582422869736" duration="1425000" />
+      <workItem from="1582887098037" duration="3322000" />
+      <workItem from="1583152820108" duration="980000" />
+      <workItem from="1583637130469" duration="1966000" />
+      <workItem from="1587805560542" duration="2247000" />
+      <workItem from="1588167557626" duration="832000" />
+      <workItem from="1590849247234" duration="485000" />
+      <workItem from="1591547410605" duration="548000" />
+      <workItem from="1592194919436" duration="23000" />
+      <workItem from="1592233909668" duration="1456000" />
+      <workItem from="1592323092736" duration="626000" />
+      <workItem from="1592397946321" duration="1351000" />
+      <workItem from="1592556901234" duration="13207000" />
+      <workItem from="1593141841550" duration="567000" />
+      <workItem from="1593170899492" duration="519000" />
+      <workItem from="1593189840749" duration="2058000" />
+      <workItem from="1593227753634" duration="2164000" />
+      <workItem from="1593268833732" duration="3154000" />
+      <workItem from="1593340739091" duration="537000" />
+      <workItem from="1593432360866" duration="93000" />
+      <workItem from="1593534769059" duration="597000" />
+      <workItem from="1593842180575" duration="1520000" />
+      <workItem from="1593871878263" duration="475000" />
+      <workItem from="1593881626845" duration="1997000" />
+      <workItem from="1594033368645" duration="13000" />
+      <workItem from="1594045778324" duration="1077000" />
+      <workItem from="1594185358060" duration="557000" />
+      <workItem from="1594346457089" duration="469000" />
+      <workItem from="1594363556079" duration="2000" />
+      <workItem from="1594616603077" duration="3606000" />
+      <workItem from="1595006335474" duration="359000" />
+      <workItem from="1595141017125" duration="7940000" />
+      <workItem from="1596796226870" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="281292000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15015975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4993895" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893504" weight="0.23516484" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993895" weight="0.32954547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.498779" weight="0.32879817" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48083067" weight="0.23960397" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.528754" side_tool="true" visible="true" weight="0.33366337" />
+      <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.471246" visible="true" weight="0.33366337" />
+      <window_info anchor="bottom" id="SQL Generator" order="13" sideWeight="0.49946752" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.24707136" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../PWProject_X/changestatus.php</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../PWProject/loadchest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject/custommessage.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject/loadcombatlogsetting.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/savefaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/private/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/loadprivatechest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/save.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/admin_permissions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/updateIP.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/carriedupdate.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/deathsave.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/igcommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/deposit.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/checkhouse.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/housesaveitem.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/changestatus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/loadchest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/banhistory">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/api_gamelogin">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" text="guid = 2929692">
+            <filter text="guid = 2929692" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/backend_rechargecard">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x_web/table/chat_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/addban.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/log_in.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/housesystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="100" selection-start-line="42" selection-start-column="100" selection-end-line="42" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/backend_log">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="message LIKE '%南瓜%'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x_web/table/chest_private_system">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="guid = 1927691" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/auth_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/loadfaction.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/house_system">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x_web/table/market">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/accskill">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x_web/table/admin">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="guid = 4638045" />
+            <filter text="nickname LIKE '%ZILONG%'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/backend_userprofile">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="qq = 1807310696" />
+            <filter text="user_id = 746" />
+            <filter text="player_id = 10007306" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/checkplayer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1957" />
+      </provider>
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" text="LAST">
+            <filter text="guid = 4621119" />
+            <filter text="guid = 2792250" />
+            <filter text="guid = 4621435" />
+            <filter text="body &gt; 1500" />
+            <filter text="ip = '112.49.195.119'" />
+            <filter text="lastname = 'JKUU'" />
+            <filter text="lastname = 'BOOMDUMDUM'" />
+            <filter text="guid = 4636152" />
+            <filter text="ID = 10007453" />
+            <filter text="lastname LIKE '%TJP%'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/getbank.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/player_names.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/saveskills.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/amountdeposit.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/checkplayer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="143" column="37" selection-start-line="143" selection-start-column="37" selection-end-line="143" selection-end-column="379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/pwnameserver/private/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject/checkplayer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/amountwithdraw.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3708fabe-653a-4ca6-af5f-1e1c055f872a/schema/pw_x/table/ban_stat">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="GUID = 2792250" />
+            <filter text="GUID = 1262341" />
+            <filter text="GUID = 4621119" />
+            <filter text="GUID = 4621110" />
+            <filter text="PrimaryID = 'F' OR  PrimaryID2 = 'F'" />
+            <filter text="PrimaryID = 'F'" />
+            <filter text="PrimaryID = 'xiaokeai'" />
+            <filter text="PrimaryID LIKE '%ARTHUR5%'" />
+            <filter text="PrimaryID2 LIKE '%ARTHUR5%'" />
+            <filter text="PrimaryID2 LIKE '%ARTHUR%'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/antispy.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3708fabe-653a-4ca6-af5f-1e1c055f872a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="100" selection-start-column="100" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject_X/getarmor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/29a54fd7-c36f-4d44-9702-5ef0d6ab7a2a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="185" selection-end-column="336" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PWProject/pwnameserver/private/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
